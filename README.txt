@@ -1,8 +1,4 @@
-Kimberly Tom
-11/3/19
-CS 372
-
-Readme file for Project 1, TCP Chat Program:
+Readme file for TCP Chat Program:
 
 chatserve.py was written in python.
 chatclient.c was written in C.
